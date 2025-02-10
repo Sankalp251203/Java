@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q7 {
+public class Palindrome {
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
         System.out.print("Enter a string to check if it's a palindrome: ");
