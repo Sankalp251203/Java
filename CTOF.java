@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q10 {
+public class CTOF {
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
         System.out.print("Enter temperature in Celsius: ");
