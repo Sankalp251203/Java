@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q5 {
+public class LargestElement {
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
         System.out.print("Enter the number of elements in the array: ");
